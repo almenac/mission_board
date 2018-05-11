@@ -1,0 +1,58 @@
+body {  
+  width: 90%;
+  font-family: Tajawal;
+  margin: 20px auto;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.sector {
+  display: flex;
+  flex-wrap: wrap;  
+}
+
+.mission {    
+  background-color: #efeff5;  
+  text-align: center;
+  padding: 15px;  
+  flex: 1 1 300px;    
+  justify-content: flex-start;
+}
+
+/* .mission:nth-child(even) {
+  background-color: lightblue;
+} */
+
+
+/* body {
+  margin: 0;
+}
+
+html, body {
+  box-sizing: border-box;
+  height: 100%;
+  padding: 10px;  
+}
+
+.container {
+  border: 5px solid red;
+  display: flex;  
+}
+
+.container > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;  
+}
+
+.mission {
+  background-color: lightblue;  
+} */
